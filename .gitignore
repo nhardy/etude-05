@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Mac OSX
+.DS_Store
+._DS_Store
+
+# Editor
+.vscode
+
+# Output
+out.bmp
